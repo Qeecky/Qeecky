@@ -15,6 +15,10 @@ GitHub, GitLab
 
 Приглашаю Вас посетить мое [портфолио](https://github.com/Qeecky/Portfolio), в котором выложены проекты, над которыми я работал 
 
+###### Связь со мной 📧
+qqeecky@yandex.ru ✉️
+[telegram](https://t.me/qeecky)
+
 
 <!--
 **Qeecky/Qeecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
